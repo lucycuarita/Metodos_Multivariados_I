@@ -9,9 +9,9 @@ El seminario corresponde a una temática complementaria a lo visto en cada uno de
 
 > - **Tema 1.** Diagrama de Burbujas - Adaia 
 
-> - **Tema 2.** Imputación por el método de Cohen -Jhanet
+> - **Tema 2.** Imputación por el método de Cohen -Jhanet, Henry
 
-> - **Tema 3.** Imputación por el Método NNI (Nearest Neighbor Imputation) - Elva Jarro, Henry
+> - **Tema 3.** Imputación por el Método NNI (Nearest Neighbor Imputation) - Elva, Rafaela
 
 > - **Tema 4.** Imputación por el Método de Regresión  - Daniel, José 
 
