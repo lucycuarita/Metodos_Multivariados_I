@@ -1,7 +1,7 @@
-#  METODOS MULTIVARIADOS I (EST-335)
+#  METODOS MULTIVARIADOS I (EST-365)
 
-## `Objetivo General`
-> Aplicar los conocimientos elementales del Álgebra Lineal y la Inferencia Estadística en el desarrollo analítico y aplicativo de técnicas multivariantes, a un nivel productivo-creativo.
+## `Competencia Global`
+> Conoce la teoría del manejo, exploración y modelamiento de múltiples variables, asimismo, aplica métodos y técnicas especializadas, en el procesamiento, exploración y modelamiento de múltiples variables cuantitativas y cualitativas para un análisis de datos multivariantes con alto sentido de responsabilidad.
 
 
 ## `Contenido Temático`
@@ -15,43 +15,57 @@
 
 ## `Bibliografía`
 
+* Hair, Joseph F., Anderson, Rolph E.,Tatham, Ronald L. and Black William C. (2000). "Análisis Multivariante". 5ta. Ed. Madrid: Prentice Hall.
 * Rencher, Alvin C., (2002). “Methods of Multivariate Analysis”, Editorial Wiley Series in probability and statistics, Canada.
 
 
 ## `Evaluaciones Parciales`
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primer Parcial	|    25 | 15/10/2020    | 1, 2 y 3 |
-| Segundo Parcial   	|    25 | 10/12/2020    | 4, 5 y 6   
-| Examen Final   	|    30 | 15/12/2020    | 1 al 6 |
-| Prácticas             |    20 |  |  |
+| Primer Parcial	|    25 | 2/10/2023    | 1, 2 y 3 |
+| Segundo Parcial   	|    25 | 4/12/2023    | 4, 5 y 6   
+| Proyecto              |    25 |  |  |
+| Seminario             |    15 |  |  |
+| Práctica              |    10 |  |  |
 
 
 
 ## `Prácticas`
 |  Práctica| Ponderación| Fecha  |  Temas |
 | ---------------- |:-------------:| ---------------- | :----------: |
-| Primera	|   3 | 17/09/2020      | 1  |
-| Segunda	|   3 | 6/10/2020      | 2  |
-| Tercera   	|   3 | 15/10/2020      | 3  |
-| Cuarta     	|   3 | 19/11/2020       | 4  |
-| Quinta    	|   3 | 10/12/2020      | 5  |
+| Primera	|   1.7 | 2/10/2023     | 1  |
+| Segunda	|   1.7 | 2/10/2023     | 2  |
+| Tercera   	|   1.7 | 2/10/2023     | 3  |
+| Cuarta     	|   1.7 | 4/12/2023     | 4  |
+| Quinta    	|   1.7 | 4/12/2023     | 5  |
+| Sexta    	|   1.7 | 4/12/2023     | 6  |
 
 
-## `Video / Video Conferencia por Google Meet`
-| Tema |  Fecha  |  
-| ---------------- | ---------------- | 
-| 1    | 03/09/2020       | 
-| 2    | 17/09/2020        | 
-| 3    | 06/10/2020       | 
-| 4    | 12/11/2020       | 
-| 5    | 01/12/2020       | 
-| 5    | 08/12/2020       | 
+## `Seminario`
+|  Seminario| Ponderación| Fecha  |  Temas |
+| ---------------- |:-------------:| ---------------- | :----------: |
+| 1	|   2.5 | 13/09/2023     | 1  |
+| 2	|   2.5 | 27/09/2023     | 2  |
+| 3  	|   2.5 | 11/10/2023     | 3  |
+| 4    	|   2.5 | 25/10/2023     | 4  |
+| 5   	|   2.5 | 08/11/2023     | 5  |
+| 6   	|   2.5 | 22/11/2023     | 6  |
+
+
+## `Proyecto`
+|  Proyecto| Ponderación| Fecha  |  Temas |
+| ---------------- |:-------------:| ---------------- | :----------: |
+| 1	|   4.0 | 20/09/2023     | 1  |
+| 2	|   4.0 | 04/10/2023     | 2  |
+| 3  	|   3.0 | 18/10/2023     | 3  |
+| 4    	|   3.0 | 01/11/2023     | 4  |
+| 5   	|   5.5 | 15/11/2023     | 5  |
+| 6   	|   5.5 | 29/11/2023     | 6  |
 
 
 ### `Examen Recuperatorio`
-> 17/12/2020 : Temas correspondientes al parcial
+> 11/12/2023 : Temas correspondientes al parcial
 
 
 ### `Publicación de Notas Finales`
-> 22/12/2020
+> 13/12/2023
