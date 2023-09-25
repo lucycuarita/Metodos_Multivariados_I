@@ -17,6 +17,24 @@ El seminario corresponde a una temática complementaria a lo visto en cada uno de
 
 > - **Tema 5.** Imputación por el Método RHD (Random Hot Deck) - Fadia, Miltón
 
+
+## `SEMINARIO 2`
+
+> - **Tema 1.** Univariate Normality (4.4.1 - first test) José
+
+> - **Tema 2.** Univariate Normality (4.4.1 - second test) Jhanet, Henry
+
+> - **Tema 3.** Univariate Normality (4.4.1)- final test)  Rafaela 
+
+> - **Tema 4.** Multivariate Normality (4.4.2 - third procedure) Miltón
+ 
+> - **Tema 5.** Detection of several outliers (4.5.2 section) Daniel 
+
+> - **Tema 6.** Prueba de Royston, Adaia
+
+> - **Tema 7.** Prueba de Mardia, Elva
+
+
 Nota. La asignación de un tema a dos personas no indica que las dos personas deban presentar un trabajo en conjunto, la presentación es individual.
 
 
